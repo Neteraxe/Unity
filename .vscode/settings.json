@@ -1,0 +1,11 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "D:\\Path\\msys\\mingw64\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "D:\\Path\\msys\\mingw64\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "D:\\Path\\msys\\mingw64\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "D:\\Path\\msys\\mingw64\\bin\\make.exe",
+  "files.associations": {
+    "*.tcc": "cpp",
+    "random": "cpp",
+    "iostream": "cpp"
+  }
+}
